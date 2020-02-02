@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://ManaAdmin:ManaAdmin@manacluster-6ufje.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettoken"
+}

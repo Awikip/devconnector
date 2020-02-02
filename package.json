@@ -4,7 +4,7 @@
   "description": "Social network for developers",
   "main": "server.js",
   "scripts": {
-    "start": "mode server",
+    "start": "node server",
     "server": "nodemon server"
   },
   "author": "Alex Dienaar",
